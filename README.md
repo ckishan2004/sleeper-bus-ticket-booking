@@ -95,14 +95,3 @@ A **mock AI/ML prediction feature** is also included to estimate booking confirm
 - Low seat occupancy → Lower probability
 
 This mock logic simulates how a real ML model could behave using historical data.
-
----
-
-## Example API Request
-
-### Book Seat
-```json
-{
-  "name": "Kishan",
-  "seat": "L3"
-}
